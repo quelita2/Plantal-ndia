@@ -1,5 +1,5 @@
 # 🌻| Plantalândia
-Projeto de jogo educacional no P5js Editor promovido pela matéria de Lógica de Programação na Universdidade Federal do Rio Grande do Norte (UFRN).
+Projeto de jogo educacional no P5js Editor promovido pela matéria de Lógica de Programação na Universidade Federal do Rio Grande do Norte (UFRN).
 
 Por meio do <a href="http://www.colabeduc.org/">Colabeduc</a> foi possível desenvolver um jogo educacional visando aperfeiçoar um estudante em um assunto específico. O sistema de desenvolvimento colaborativo de objetos de aprendizagem virtuais ou reais, propõe aos professores uma didática diferenciada de ensino, enquanto uma oportunidade de aprendizagem para os estudantes que testarão os jogos quanto aos seus respectivos desenvolvedores.
 
